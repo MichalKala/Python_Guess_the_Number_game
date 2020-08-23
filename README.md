@@ -10,4 +10,4 @@ https://www.codementor.io/@ilyaas97/6-python-projects-for-beginners-yn3va03fs
 It did not take much time to come up with working version of the game, so I decided to add exception handling for when you type something else than number, to learn try/except to make it bit more interesting.
 
 
-![alt text](https://github.com/MichalKala/Python_GUI_multifunction_clock_app/blob/master/CurrentTime.JPG)
+![alt text](https://github.com/MichalKala/Python_Guess_the_Number_game/blob/master/Screenshot.JPG)
