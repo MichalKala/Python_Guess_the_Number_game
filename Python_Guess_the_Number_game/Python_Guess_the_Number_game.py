@@ -16,7 +16,7 @@ while Outcome < 6:
     try:
         User_number = int(User_choice)
     except ValueError:
-        print("You enter something else than integer number, please do not enter floating numbers or strings!")
+        print("Please do not enter floating numbers or strings! Try again...")
         print("")
         break
 
