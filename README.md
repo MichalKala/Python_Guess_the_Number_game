@@ -11,3 +11,5 @@ It did not take much time to come up with working version of the game, so I deci
 
 
 ![alt text](https://github.com/MichalKala/Python_Guess_the_Number_game/blob/master/Screenshot.JPG)
+
+![alt text](https://github.com/MichalKala/Python_Guess_the_Number_game/blob/master/Screenshot2.JPG)
